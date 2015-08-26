@@ -6,7 +6,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	cout << "dfgdg ";
+	cout << "dfgvvdg ";
 	return 0;
 }
 
